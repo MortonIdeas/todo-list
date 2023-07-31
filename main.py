@@ -6,3 +6,6 @@ listy = ['Madagaskar', 'Argentyna', 'Andora']
 
 for country in listy:
     print(country)
+
+for country in listy:
+    print('1')
